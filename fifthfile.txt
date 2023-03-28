@@ -5,3 +5,6 @@ Changed Made by Saad
 feature developed by Hamza
 
 Devops
+
+Cloud Computing
+Machine learning

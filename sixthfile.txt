@@ -1,3 +1,5 @@
 This is our sixth file
 
 Changes made by developer
+
+Welcome to the class
